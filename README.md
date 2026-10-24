@@ -10,7 +10,7 @@
 
 关注 Agent 应用后端、文档问答和运行时可靠性。经历覆盖模型与工具接入、上下文和状态管理、文档检索，以及离线评测。喜欢沿着完整调用链理解问题，再用测试和可复现示例说明实现边界。
 
-这里优先展示可以公开的个人应用和独立演示。每个项目记录运行方式、已验证部分与后续工作，企业代码和内部数据不在公开仓库中。
+这里优先展示个人应用和可公开的项目源码版本。每个项目记录运行方式、已验证部分与后续工作，内部部署信息和业务数据不在公开仓库中。
 
 ### 精选项目
 
@@ -18,7 +18,7 @@
 | :--- | :--- | :--- |
 | **[Ultrasonic Agent](https://github.com/casset23/ultrasonic-agent)** | 口述 → 模板 → 结构化报告草稿 → 人工审核 → 桌面填写 | Electron IPC、JSON 输出检查、SQLite 模板入库、Windows 自动化 |
 | **[AssistGen](https://github.com/casset23/assistgen)** | 文档清洗分块、检索组织与引证问答探索 | 可独立运行的 Markdown 分块示例、检索配置和评测脚本 |
-| **[Voice Agent Runtime](https://github.com/casset23/voice-agent-runtime)** | 智能音箱文字指令的独立后端演示 | Token 鉴权、并发保护、超时释放、工具白名单与接口测试 |
+| **[Voice Agent Runtime](https://github.com/casset23/voice-agent-runtime)** | 智能音箱 Agent 后端原项目的脱敏源码 | Rust Gateway、Python LLM Runner、NestJS/SQLite 资源中心与 React 管理台 |
 
 ### 我关注的工程问题
 

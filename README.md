@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" width="100%" alt="casset23 — Agent Backend Engineering" /></p>
 
-<p align="center"><b>逯雨琪 · Agent 后端开发</b><br/>湖北工业大学 · 软件工程 · 2027 届</p>
+<p align="center"><b>Agent 后端开发 · 文档智能 · 运行时可靠性</b></p>
 
 <p align="center">把模型能力放进可运行、可检查、可持续改进的系统。</p>
 
